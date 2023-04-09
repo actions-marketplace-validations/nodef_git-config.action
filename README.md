@@ -1,4 +1,4 @@
-A GitHub Action for configuring git.
+A GitHub Action for configuring git. (under construction)
 
 ```yaml
 # Configure credentials for GitHub and GitHub Gist.
@@ -52,6 +52,8 @@ A GitHub Action for configuring git.
 
 ## References
 
+- [kota65535/github-git-config-action : Tomohiko Ozawa](https://github.com/kota65535/github-git-config-action)
+- [dawidd6/action-git-user-config : Dawid Dziurla](https://github.com/dawidd6/action-git-user-config)
 - [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
 - [Creating a JavaScript Action - GitHub Docs](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action)
 - [Metadata syntax for GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions)
@@ -59,6 +61,8 @@ A GitHub Action for configuring git.
 - [git-config - Git Documentation](https://git-scm.com/docs/git-config)
 - [Storing Git Credentials with Git Credential Helper : Seralahthan](https://techexpertise.medium.com/storing-git-credentials-with-git-credential-helper-33d22a6b5ce7)
 - [How to Save Username and Password in Git : Maria Naz](https://linuxhint.com/save-username-password-in-git/)
+- [Error: Cannot find module '@actions/core'](https://github.com/Azure/docker-login/issues/3)
 - [How Do I Use GIT_CONFIG Environment Variable](https://stackoverflow.com/a/67714373/1413259)
 - [Git: Easiest way to reset git config file](https://stackoverflow.com/q/35853986/1413259)
+- [How can I save username and password in Git?](https://stackoverflow.com/a/35942890/1413259)
 - [How to use array input for a custom GitHub Actions](https://stackoverflow.com/a/75420778/1413259)
